@@ -1,4 +1,3 @@
 - 👋 Hi, I’m Agam
 - 🌱 I’m currently as Flutter Developer / Back End Developer (Node JS, Go) / Web Developer (Codeigniter 4, Next JS 14)
 - 💞️ I’m looking to collaborate on Mobile Apps (Flutter)
-- 📫 How to reach me reihanagam7@gmail.com
